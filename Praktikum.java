@@ -1,1 +1,3 @@
-abc
+public void main(String[] args){
+    
+}
